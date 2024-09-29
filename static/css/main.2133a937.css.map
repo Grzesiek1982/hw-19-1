@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.2133a937.css","mappings":"AAAA,SAEE,qBAAuB,CADvB,wBAEF,CAEA,MACE,cACF","sources":["components/Profile/Profile.styles.css"],"sourcesContent":[".profile {\n  border: 1px solid #d1d1d1;\n  background-color: black;\n}\n\n.name {\n  font-size: 44px;\n}\n"],"names":[],"sourceRoot":""}
